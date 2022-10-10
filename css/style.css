@@ -6,9 +6,9 @@ body{
 .vz_square{
     width: 80px;
     height: 80px;
-    border: 1px solid black;
     line-height: 80px;
 }
 .fizz{background-color: yellow;}
 .buzz{background-color: red;}
 .fizzbuzz{background-color: blue;}
+.vz_i{background-color:ivory;}

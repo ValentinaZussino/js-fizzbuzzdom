@@ -1,9 +1,14 @@
 body{
-    background-color: indianred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 30px;
+    text-align: center;
 }
 .vz_square{
     width: 80px;
     height: 80px;
     border: 1px solid black;
+    line-height: 80px;
 }
+.fizz{background-color: yellow;}
+.buzz{background-color: red;}
+.fizzbuzz{background-color: blue;}
